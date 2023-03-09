@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: city-1.jpg
+title: "Book Cover"
+author: "Daniel Levin"
+categories: book
+tags: [cover]
+image: dore_mideast.webp
 ---
 
 # Millennial

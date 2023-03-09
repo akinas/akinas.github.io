@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Book Cover"
 author: "Paul Le"
-categories: sample
-tags: [sample]
-image: arctic-1.jpg
+categories: book
+tags: [cover]
+image: fiamma_matter.webp
 ---
 
 # Markdown Support
