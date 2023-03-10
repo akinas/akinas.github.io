@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Web',   url: 'web'}
-- {name: 'Print', url: 'print'}
+- {name: 'Branding', url: 'branding'}
 - {name: 'Video', url: 'video'}
 - {name: 'Book',  url: 'book'}
 - {name: 'About', url: 'about'}

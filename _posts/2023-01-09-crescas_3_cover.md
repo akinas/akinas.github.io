@@ -4,6 +4,9 @@ title: "Book Cover"
 author: "Daniel Levin"
 categories: book
 tags: [cover]
-image: dore_mideast.webp
+image: 3rd_outside_full.jpg
 ---
+
+
+
 
