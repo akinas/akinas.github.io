@@ -71,12 +71,14 @@ Some of the websites I designed and built:
 
 
 
-Novosibirsk State Academy of Arts and Architecture / No Degree
---------------------------------------------------------------
+Novosibirsk State Academy of Arts and Architecture 
+-------------------------------------------------
+
+> Industrial Architecture (No Degree)
 
 #### SEPTEMBER 1992 - JULY  1995,  RUSSIA
 
-Industrial Architecture
+
 
 ---
 
